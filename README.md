@@ -14,7 +14,7 @@
 
 </div>
 
-> 🔥 **Current Focus:** Sanjeevani AI project • GATE CSE preparation • Open-source contributions
+> 🔥 **Current Focus:** python project • GATE CSE preparation • Open-source contributions
 
 <br/>
 
