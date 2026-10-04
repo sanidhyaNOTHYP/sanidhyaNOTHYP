@@ -110,17 +110,30 @@ int main() {
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanidhyaNOTHYP&show_icons=true&bg_color=ffffff0d&border_color=ffffff26&border_radius=20&title_color=f59e0b&icon_color=f59e0b&text_color=e5e5e5&ring_color=f59e0b&count_private=true&include_all_commits=true" alt="stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyaNOTHYP&layout=compact&bg_color=ffffff0d&border_color=ffffff26&border_radius=20&title_color=f59e0b&text_color=e5e5e5&langs_count=8" alt="top languages" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=sanidhyaNOTHYP&background=ffffff0d&border=ffffff26&border_radius=20&stroke=ffffff1a&ring=f59e0b&fire=f59e0b&currStreakNum=f59e0b&sideNums=e5e5e5&currStreakLabel=f59e0b&sideLabels=a3a3a3&dates=737373" alt="streak" />
-
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyaNOTHYP&bg_color=0d0d0f&color=f59e0b&line=b45309&point=ffffff&area=true&area_color=b45309&hide_border=true" width="95%" alt="activity graph" />
+<!-- 🐦 bird lands on the streak bar -->
+<img src="./assets/streak-bird.svg" width="495" alt="bird landing on streak bar" />
+<br/>
+<img src="https://streak-stats.demolab.com/?user=sanidhyaNOTHYP&background=ffffff0d&border=ffffff26&border_radius=20&stroke=ffffff1a&ring=f59e0b&fire=f59e0b&currStreakNum=f59e0b&sideNums=e5e5e5&currStreakLabel=f59e0b&sideLabels=a3a3a3&dates=737373" width="495" alt="streak" />
 
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=sanidhyaNOTHYP&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies" />
+
+</div>
+
+<br/>
+
+## 📈 Consistency
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyaNOTHYP&bg_color=0d0d0f&color=f59e0b&line=b45309&point=ffffff&area=true&area_color=b45309&hide_border=true" width="95%" alt="activity graph" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/sanidhyaNOTHYP/sanidhyaNOTHYP/output/github-snake-dark.svg" width="95%" alt="contribution snake" />
 
 </div>
 
