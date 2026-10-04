@@ -1,0 +1,63 @@
+<svg width="495" height="112" viewBox="0 0 495 112" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f59e0b" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#f59e0b" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#f59e0b" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-300%" width="140%" height="700%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+
+  <!-- streak perch bar -->
+  <rect x="30" y="102" width="435" height="6" fill="#f59e0b" opacity="0.35" filter="url(#glow)"/>
+  <rect x="30" y="104" width="435" height="2.5" rx="1.25" fill="url(#bar)"/>
+
+  <!-- landing ripple -->
+  <ellipse cx="247" cy="105" rx="0" ry="0" fill="none" stroke="#f59e0b" stroke-width="1.2" opacity="0">
+    <animate attributeName="rx" values="0;0;34;34" keyTimes="0;0.29;0.42;1" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="ry" values="0;0;5;5" keyTimes="0;0.29;0.42;1" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.7;0;0" keyTimes="0;0.29;0.42;1" dur="10s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- bird: flies in, lands, idles, flies off -->
+  <g>
+    <animateMotion dur="10s" repeatCount="indefinite" calcMode="spline"
+      keyTimes="0;0.3;0.8;1" keyPoints="0;0.5;0.5;1"
+      keySplines="0.25 0.6 0.4 1; 0 0 1 1; 0.6 0 0.9 0.4"
+      path="M -40,20 C 80,0 180,74 247,104 C 314,74 414,0 534,20"/>
+
+    <!-- flying pose -->
+    <g>
+      <animate attributeName="opacity" values="1;0;1" keyTimes="0;0.3;0.8" calcMode="discrete" dur="10s" repeatCount="indefinite"/>
+      <polygon points="-8,-9 -17,-12 -17,-6" fill="#b45309"/>
+      <ellipse cx="0" cy="-9" rx="9" ry="5.5" fill="#f59e0b"/>
+      <circle cx="8" cy="-12" r="4" fill="#fbbf24"/>
+      <polygon points="11.5,-12.5 16,-11.5 11.5,-10.5" fill="#fde68a"/>
+      <circle cx="9" cy="-13" r="0.9" fill="#1a1a1a"/>
+      <g transform="translate(-1,-12)">
+        <g>
+          <path d="M 0,0 Q -3,-15 7,-13 Q 4,-6 5,0 Z" fill="#b45309"/>
+          <animateTransform attributeName="transform" type="scale" values="1 1;1 -0.6;1 1" dur="0.35s" repeatCount="indefinite"/>
+        </g>
+      </g>
+    </g>
+
+    <!-- perched pose -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.3;0.8" calcMode="discrete" dur="10s" repeatCount="indefinite"/>
+      <line x1="-1" y1="-4" x2="-1" y2="0" stroke="#fde68a" stroke-width="1.2" stroke-linecap="round"/>
+      <line x1="3" y1="-4" x2="3" y2="0" stroke="#fde68a" stroke-width="1.2" stroke-linecap="round"/>
+      <polygon points="-7,-9 -17,-6 -15,-3" fill="#b45309"/>
+      <ellipse cx="0" cy="-9" rx="9" ry="5.5" fill="#f59e0b"/>
+      <path d="M -6,-10 Q 0,-14 6,-9 Q 0,-4 -6,-7 Z" fill="#b45309"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0.5 -1.5;0 0" dur="1.4s" repeatCount="indefinite"/>
+        <circle cx="8" cy="-12" r="4" fill="#fbbf24"/>
+        <polygon points="11.5,-12.5 16,-11.5 11.5,-10.5" fill="#fde68a"/>
+        <circle cx="9" cy="-13" r="0.9" fill="#1a1a1a"/>
+      </g>
+    </g>
+  </g>
+</svg>
