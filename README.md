@@ -1,171 +1,145 @@
 <div align="center">
 
-<img src="./assets/glass-header.svg" width="100%" alt="Sanidhya" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0f,50:7c3a07,100:f59e0b&height=240&section=header&text=Sanidhya&fontSize=70&fontColor=ffffff&fontAlignY=42&desc=Computer%20Science%20Student%20%C2%B7%20Tech%20Enthusiast&descSize=17&descAlignY=62&animation=fadeIn" width="100%" alt="Sanidhya" />
 
 <a href="https://github.com/sanidhyaNOTHYP">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Sanidhya+%F0%9F%91%8B;I+write+C%2B%2B+and+Python+%E2%9A%A1;Grinding+DSA+%26+GATE+CSE+prep+%F0%9F%A7%A9;Lifting+heavy.+Shipping+clean+code.+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1000&color=F59E0B&center=true&vCenter=true&width=640&lines=Building+with+C%2B%2B+%26+Python;Learning+DSA%2C+ML+%26+Web+Tech;Preparing+for+GATE+CSE;Lifting+heavy.+Shipping+clean+code." alt="typing" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Views](https://komarev.com/ghpvc/?username=sanidhyaNOTHYP&label=VIEWS&color=f59e0b&style=flat-square&labelColor=1c1c1f)
-![Followers](https://img.shields.io/github/followers/sanidhyaNOTHYP?label=FOLLOWERS&style=flat-square&logo=github&logoColor=f59e0b&labelColor=1c1c1f&color=f59e0b)
-![Stars](https://img.shields.io/github/stars/sanidhyaNOTHYP?label=STARS&style=flat-square&logo=github&logoColor=f59e0b&labelColor=1c1c1f&color=b45309)
+<img src="https://img.shields.io/badge/C++-141417?style=flat-square&logo=cplusplus&logoColor=f59e0b" />
+<img src="https://img.shields.io/badge/Python-141417?style=flat-square&logo=python&logoColor=f59e0b" />
+<img src="https://img.shields.io/badge/SQL-141417?style=flat-square&logo=mysql&logoColor=f59e0b" />
+<img src="https://komarev.com/ghpvc/?username=sanidhyaNOTHYP&label=views&color=f59e0b&style=flat-square&labelColor=141417" />
+<img src="https://img.shields.io/github/followers/sanidhyaNOTHYP?style=flat-square&logo=github&logoColor=f59e0b&labelColor=141417&color=f59e0b" />
 
 </div>
 
-> 🔥 **Current Focus:** python project • GATE CSE preparation • Open-source contributions
-
 <br/>
 
-## 👨‍💻 About
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:00000000&height=1&section=header" width="100%" />
 
-```cpp
-#include <iostream>
-#include <string>
-#include <vector>
-
-struct Developer {
-    std::string name     = "Sanidhya";
-    std::string github   = "sanidhyaNOTHYP";
-    std::string role     = "Computer Science Student / Tech Enthusiast";
-    std::vector<std::string> languages = {"C++", "Python", "SQL"};
-    std::vector<std::string> learning  = {"DSA", "Machine Learning", "Web Tech", "GATE CSE"};
-    std::vector<std::string> offScreen = {"Gym & Strength Training", "Gaming", "Tech Hardware"};
-    std::string status   = "Building, breaking, and learning every day";
-};
-
-int main() {
-    Developer me;
-    std::cout << "Let's build something great together!" << std::endl;
-    return 0;
-}
-```
-
-<br/>
-
-## 🛠️ Stack
-
-**Languages**&nbsp;
-<img src="https://img.shields.io/badge/C++-1c1c1f?style=flat-square&logo=cplusplus&logoColor=f59e0b" />
-<img src="https://img.shields.io/badge/Python-1c1c1f?style=flat-square&logo=python&logoColor=f59e0b" />
-<img src="https://img.shields.io/badge/SQL-1c1c1f?style=flat-square&logo=mysql&logoColor=f59e0b" />
-
-**Tools & Frameworks**&nbsp;
-<img src="https://img.shields.io/badge/Git-1c1c1f?style=flat-square&logo=git&logoColor=f59e0b" />
-<img src="https://img.shields.io/badge/GitHub-1c1c1f?style=flat-square&logo=github&logoColor=f59e0b" />
-<img src="https://img.shields.io/badge/Machine%20Learning-1c1c1f?style=flat-square&logo=scikitlearn&logoColor=f59e0b" />
-<img src="https://img.shields.io/badge/Web%20Tech-1c1c1f?style=flat-square&logo=html5&logoColor=f59e0b" />
-<img src="https://img.shields.io/badge/DSA-1c1c1f?style=flat-square&logo=leetcode&logoColor=f59e0b" />
-
-**Platforms & IDEs**&nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-1c1c1f?style=flat-square&logo=visualstudiocode&logoColor=f59e0b" />
-<img src="https://img.shields.io/badge/LeetCode-1c1c1f?style=flat-square&logo=leetcode&logoColor=f59e0b" />
-<img src="https://img.shields.io/badge/Linux-1c1c1f?style=flat-square&logo=linux&logoColor=f59e0b" />
-
-<br/>
-
-## 🚀 Projects
+### ✦ &nbsp;About
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🩺 <a href="https://github.com/sanidhyaNOTHYP/REPO-NAME">Sanjeevani AI</a></h3>
-      <sub>ML applied to real-world problems</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Python-1c1c1f?style=flat-square&logo=python&logoColor=f59e0b" />
-      <img src="https://img.shields.io/badge/ML-1c1c1f?style=flat-square&logo=scikitlearn&logoColor=f59e0b" />
-      <img src="https://img.shields.io/badge/AI-b45309?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/sanidhyaNOTHYP/REPO-NAME">DSA Playground</a></h3>
-      <sub>Algorithms & problem-solving patterns</sub><br/><br/>
-      <img src="https://img.shields.io/badge/C++-1c1c1f?style=flat-square&logo=cplusplus&logoColor=f59e0b" />
-      <img src="https://img.shields.io/badge/DSA-1c1c1f?style=flat-square&logo=leetcode&logoColor=f59e0b" />
-      <img src="https://img.shields.io/badge/GATE-b45309?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/sanidhyaNOTHYP/REPO-NAME">Web Project</a></h3>
-      <sub>Modern web technologies & clean UI</sub><br/><br/>
-      <img src="https://img.shields.io/badge/HTML-1c1c1f?style=flat-square&logo=html5&logoColor=f59e0b" />
-      <img src="https://img.shields.io/badge/CSS-1c1c1f?style=flat-square&logo=css3&logoColor=f59e0b" />
-      <img src="https://img.shields.io/badge/JavaScript-1c1c1f?style=flat-square&logo=javascript&logoColor=f59e0b" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤝 <a href="https://github.com/sanidhyaNOTHYP?tab=repositories">Open Source</a></h3>
-      <sub>Contributions & learning from real codebases</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Git-1c1c1f?style=flat-square&logo=git&logoColor=f59e0b" />
-      <img src="https://img.shields.io/badge/Open%20Source-b45309?style=flat-square&logo=opensourceinitiative&logoColor=white" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Background**<br/>
+<sub>CS student who loves problem solving and clean code</sub>
+
+**🚀 Building**<br/>
+<sub>Sanjeevani AI · open-source contributions</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**📚 Learning**<br/>
+<sub>DSA · Machine Learning · Web Tech · GATE CSE</sub>
+
+**⚡ Off-screen**<br/>
+<sub>Strength training · gaming · tech hardware</sub>
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-## 📊 Analytics
+### ✦ &nbsp;Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanidhyaNOTHYP&show_icons=true&bg_color=ffffff0d&border_color=ffffff26&border_radius=20&title_color=f59e0b&icon_color=f59e0b&text_color=e5e5e5&ring_color=f59e0b&count_private=true&include_all_commits=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyaNOTHYP&layout=compact&bg_color=ffffff0d&border_color=ffffff26&border_radius=20&title_color=f59e0b&text_color=e5e5e5&langs_count=8" alt="top languages" />
+<img src="https://skillicons.dev/icons?i=cpp,py,mysql,html,css,js,git,github,vscode,linux&theme=dark&perline=10" alt="stack" />
 
-<br/><br/>
+</div>
 
-<!-- 🐦 bird lands on the streak bar -->
-<img src="./assets/streak-bird.svg" width="495" alt="bird landing on streak bar" />
 <br/>
+
+### ✦ &nbsp;Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🩺 [Sanjeevani AI](https://github.com/sanidhyaNOTHYP/REPO-NAME)
+<sub>Machine learning applied to real-world problems</sub><br/>
+<img src="https://img.shields.io/badge/Python-141417?style=flat-square&logo=python&logoColor=f59e0b" />
+<img src="https://img.shields.io/badge/ML-141417?style=flat-square&logo=scikitlearn&logoColor=f59e0b" />
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧠 [DSA Playground](https://github.com/sanidhyaNOTHYP/REPO-NAME)
+<sub>Algorithms and problem-solving patterns</sub><br/>
+<img src="https://img.shields.io/badge/C++-141417?style=flat-square&logo=cplusplus&logoColor=f59e0b" />
+<img src="https://img.shields.io/badge/DSA-141417?style=flat-square&logo=leetcode&logoColor=f59e0b" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌐 [Web Project](https://github.com/sanidhyaNOTHYP/REPO-NAME)
+<sub>Modern web technologies and clean UI</sub><br/>
+<img src="https://img.shields.io/badge/HTML-141417?style=flat-square&logo=html5&logoColor=f59e0b" />
+<img src="https://img.shields.io/badge/CSS-141417?style=flat-square&logo=css3&logoColor=f59e0b" />
+<img src="https://img.shields.io/badge/JS-141417?style=flat-square&logo=javascript&logoColor=f59e0b" />
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤝 [Open Source](https://github.com/sanidhyaNOTHYP?tab=repositories)
+<sub>Contributing and learning from real codebases</sub><br/>
+<img src="https://img.shields.io/badge/Git-141417?style=flat-square&logo=git&logoColor=f59e0b" />
+<img src="https://img.shields.io/badge/GitHub-141417?style=flat-square&logo=github&logoColor=f59e0b" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ✦ &nbsp;Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanidhyaNOTHYP&show_icons=true&bg_color=ffffff0d&border_color=ffffff26&border_radius=20&title_color=f59e0b&icon_color=f59e0b&text_color=e5e5e5&ring_color=f59e0b&count_private=true&include_all_commits=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyaNOTHYP&layout=compact&bg_color=ffffff0d&border_color=ffffff26&border_radius=20&title_color=f59e0b&text_color=e5e5e5&langs_count=6" alt="languages" />
+
+<br/>
+
 <img src="https://streak-stats.demolab.com/?user=sanidhyaNOTHYP&background=ffffff0d&border=ffffff26&border_radius=20&stroke=ffffff1a&ring=f59e0b&fire=f59e0b&currStreakNum=f59e0b&sideNums=e5e5e5&currStreakLabel=f59e0b&sideLabels=a3a3a3&dates=737373" width="495" alt="streak" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sanidhyaNOTHYP&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyaNOTHYP&bg_color=0d0d0f&color=f59e0b&line=b45309&point=ffffff&area=true&area_color=b45309&hide_border=true" width="95%" alt="activity" />
 
 </div>
 
 <br/>
 
-## 📈 Consistency
+### ✦ &nbsp;Problem Solving
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyaNOTHYP&bg_color=0d0d0f&color=f59e0b&line=b45309&point=ffffff&area=true&area_color=b45309&hide_border=true" width="95%" alt="activity graph" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/sanidhyaNOTHYP/sanidhyaNOTHYP/output/github-snake-dark.svg" width="95%" alt="contribution snake" />
+<img src="https://leetcard.jacoblin.cool/sanidhyaNOTHYP?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="85%" alt="LeetCode" />
 
 </div>
 
 <br/>
 
-## 💡 Problem Solving
+### ✦ &nbsp;Connect
 
 <div align="center">
 
-<a href="https://leetcode.com/sanidhyaNOTHYP/">
-  <img src="https://img.shields.io/badge/LeetCode-sanidhyaNOTHYP-FFA116?style=flat-square&logo=leetcode&logoColor=1a1a1a" alt="LeetCode" />
-</a>
-
-<br/><br/>
-
-<img src="https://leetcard.jacoblin.cool/sanidhyaNOTHYP?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats" width="85%" />
-
-</div>
+<a href="https://linkedin.com/in/sanidhya-jaiswal-5b1b1b1b1"><img src="https://img.shields.io/badge/LinkedIn-141417?style=for-the-badge&logo=linkedin&logoColor=f59e0b" /></a>
+<a href="https://instagram.com/ft.jaiswal"><img src="https://img.shields.io/badge/Instagram-141417?style=for-the-badge&logo=instagram&logoColor=f59e0b" /></a>
+<a href="https://leetcode.com/sanidhyaNOTHYP/"><img src="https://img.shields.io/badge/LeetCode-141417?style=for-the-badge&logo=leetcode&logoColor=f59e0b" /></a>
 
 <br/>
 
-## 🌐 Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/sanidhya-jaiswal-5b1b1b1b1"><img src="https://img.shields.io/badge/LinkedIn-1c1c1f?style=flat-square&logo=linkedin&logoColor=f59e0b" alt="LinkedIn" /></a>
-<a href="https://instagram.com/ft.jaiswal"><img src="https://img.shields.io/badge/Instagram-1c1c1f?style=flat-square&logo=instagram&logoColor=f59e0b" alt="Instagram" /></a>
-<a href="https://leetcode.com/sanidhyaNOTHYP/"><img src="https://img.shields.io/badge/LeetCode-1c1c1f?style=flat-square&logo=leetcode&logoColor=f59e0b" alt="LeetCode" /></a>
-<a href="https://github.com/sanidhyaNOTHYP"><img src="https://img.shields.io/badge/GitHub-1c1c1f?style=flat-square&logo=github&logoColor=f59e0b" alt="GitHub" /></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=1500&color=737373&center=true&vCenter=true&width=500&lines=%22Talk+is+cheap.+Show+me+the+code.%22+%E2%80%94+Linus+Torvalds" alt="quote" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00000000,50:7c3a07,100:f59e0b&height=100&section=footer" width="100%" />
 
 </div>
