@@ -1,0 +1,33 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b0b14,50:5b21b6,100:0891b2&height=200&section=header&text=Sanidhya&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=Computer%20Science%20Student%20%C2%B7%20Tech%20Enthusiast&descColor=22d3ee&descSize=16&descAlignY=64&animation=fadeIn" width="100%" alt="Sanidhya" />
+
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+
+<img src="./assets/200.gif" width="100%" alt="Developer calmly typing while a fire burns beside the desk" />
+
+</td>
+<td width="55%" align="center" valign="middle">
+
+<a href="https://github.com/sanidhyaNOTHYP">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=330&lines=Building+with+C%2B%2B+%26+Python;Learning+DSA%2C+ML+%26+Web+Tech;Preparing+for+GATE+CSE;Everything%27s+fine.+Shipping+anyway." alt="typing" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/C++-0b0b14?style=flat-square&logo=cplusplus&logoColor=a855f7" alt="C++" />
+<img src="https://img.shields.io/badge/Python-0b0b14?style=flat-square&logo=python&logoColor=22d3ee" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-0b0b14?style=flat-square&logo=mysql&logoColor=3b82f6" alt="SQL" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sanidhyaNOTHYP&label=views&color=a855f7&style=flat-square&labelColor=0b0b14" alt="views" />
+<img src="https://img.shields.io/github/followers/sanidhyaNOTHYP?style=flat-square&logo=github&logoColor=22d3ee&labelColor=0b0b14&color=a855f7" alt="followers" />
+
+</td>
+</tr>
+</table>
+
+</div>
