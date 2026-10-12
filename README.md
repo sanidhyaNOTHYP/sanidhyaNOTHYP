@@ -133,7 +133,9 @@
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyaNOTHYP&bg_color=0b0b14&color=22d3ee&line=a855f7&point=ffffff&area=true&area_color=5b21b6&hide_border=true" alt="activity" />
 
 </div>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sanidhyaNOTHYP/sanidhyaNOTHYP/output/github-snake-dark.svg" alt="Contribution Snake" width="95%" />
+</div>
 <br/>
 
 ### ✦ &nbsp;Problem Solving
